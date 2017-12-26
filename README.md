@@ -9,4 +9,4 @@
 1. [Async methods](ASYNC_METHODS.md)
 
 ## Ideas for articles
-1. [Unity3D Reactive Properties)[UNITY3D_REACTIVE_PROPERTIES.md)
+1. [Unity3D Reactive Properties](UNITY3D_REACTIVE_PROPERTIES.md)
