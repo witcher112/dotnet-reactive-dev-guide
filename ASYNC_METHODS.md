@@ -1,6 +1,6 @@
 # Async methods
 
-Async methods are reactive programming replacement for `Tasks`, `Futures` or any other async patterns.
+Async methods pattern is reactive programming replacement for `Tasks`, `Futures` or any other .NET async patterns.
 
 ## Guide
 
@@ -128,4 +128,4 @@ public class SimpleUserService : IUserService
 ## TODO
 
 1. Support for cancellation.
-2. Is "async method" a proper name for this pattern?
+2. Is `async method` a proper name for this pattern?
