@@ -2,8 +2,8 @@
 
 ## Where to get?
 
-1. (https://github.com/Reactive-Extensions/Rx.NET)[Rx.NET] (main)
-2. (https://github.com/neuecc/UniRx)[Uni.Rx] (Unity3D)
+1. [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) (main)
+2. [UniRx](https://github.com/neuecc/UniRx) (Unity3D)
 
 ## Table of contents
 1. [Async methods](ASYNC_METHODS.md)
